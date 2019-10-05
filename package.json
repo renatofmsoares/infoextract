@@ -1,0 +1,24 @@
+{
+  "name": "infoextract",
+  "version": "1.0.0",
+  "description": "tool to extract information from a page converting it into text files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renatofmsoares/infoextract.git"
+  },
+  "author": "renatofmsoares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renatofmsoares/infoextract/issues"
+  },
+  "homepage": "https://github.com/renatofmsoares/infoextract#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "typescript": "^3.6.3"
+  }
+}
